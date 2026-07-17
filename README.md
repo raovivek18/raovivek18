@@ -1,5 +1,3 @@
-<img src="dark_mode.svg" width="100%" alt="GitHub Profile"/>
-
 # Hey, I'm Vivek 👋
 
 Building AI-powered products, open-source software, and modern web applications.
