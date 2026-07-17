@@ -1,22 +1,59 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="raovivek18's GitHub profile" src="dark_mode.svg" />
-</picture>
+<img src="dark_mode.svg" width="100%" alt="GitHub Profile"/>
 
-## Hi there 👋
+# Hey, I'm Vivek 👋
 
-<!--
-**raovivek18/raovivek18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI-powered products, open-source software, and modern web applications.
 
-Here are some ideas to get you started:
+### Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Building **ThumbnailGPT** — AI YouTube Thumbnail Platform
+- 📌 Building **ReachPin** — AI Pinterest Marketing Platform
+- 🛠️ Working on open-source AI developer tools
+- 🌱 Exploring Kubernetes, DevOps & AI Agents
+
+---
+
+## Featured Projects
+
+### ThumbnailGPT
+
+AI-powered platform for creating high-performing YouTube thumbnails.
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Supabase` `Clerk` `TailwindCSS` `shadcn/ui`
+
+→ https://thumbnailgpt.com
+
+---
+
+### ReachPin
+
+Pinterest growth platform that turns content into optimized pins.
+
+**Stack**
+
+`Next.js` `TypeScript` `Supabase` `TailwindCSS`
+
+→ https://reachpin.com
+
+---
+
+## Tech
+
+```txt
+Frontend
+Next.js • React • TypeScript • TailwindCSS • shadcn/ui
+
+Backend
+Node.js • Supabase • PostgreSQL • REST APIs
+
+AI
+OpenAI • Gemini • Claude • MCP
+
+DevOps
+Docker • Linux • Git • GitHub Actions
+
+Cloud
+Vercel • VPS • Cloudflare
+```
